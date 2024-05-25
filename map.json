@@ -1,0 +1,23 @@
+{
+    "result": [
+    {
+        "mapname": "Split",
+        "location": "Tokyo, Japan",
+        "description": "If you want to go far, you’ll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high",
+        "Poster": "https://static.wikia.nocookie.net/valorant/images/d/d6/Loading_Screen_Split.png/revision/latest?cb=20230411161807"
+    },
+    {
+        "mapname": "Bind",
+        "location": "Rabat, Morocco",
+        "description": "Two sites. No middle. Gotta pick left or right. What’s it going to be then? Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank.",
+        "Poster": "https://static.wikia.nocookie.net/valorant/images/2/23/Loading_Screen_Bind.png/revision/latest?cb=20200620202316"
+    },
+    {
+        "mapname": "Ascent",
+        "location": "Venice, Italy",
+        "description": "An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they’re down, you’ll have to destroy them or find another way. Yield as little territory as possible.",
+        "Poster": "https://static.wikia.nocookie.net/valorant/images/e/e7/Loading_Screen_Ascent.png/revision/latest?cb=20200607180020"
+    }
+    
+   ]
+  }
